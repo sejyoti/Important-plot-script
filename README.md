@@ -1,2 +1,2 @@
-# Important-plot-script
-Various plot code for analysis
+# Important-Bioinformatics-script
+Various code for analysis of pipeline
